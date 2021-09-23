@@ -3,13 +3,13 @@ Flashcard like DS interview questions
 
 ## Data Science related questions
 
-How can outlier values be treated?
+`How can outlier values be treated?`
 <details>
   <summary>Answer</summary>
   
   1. Can be dropped if it's garbage value
-    * e.g. height = abc ft, then it's string value instead of int or float, hence can be dropped
-    * if it's extreme value, it can be removed
+  - e.g. height = abc ft, then it's string value instead of int or float, hence can be dropped
+  - if it's extreme value, it can be removed
   2. If you cannot drop outliers, you can try
-    * a different model
+  - a different model
 </details>
