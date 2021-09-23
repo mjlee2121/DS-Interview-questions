@@ -4,6 +4,8 @@ Flashcard like DS interview questions
 ## Data Science related questions
 
 #### How can outlier values be treated?
+<pre>Text I want left alone@donotlink.me</pre>
+
 <details>
   <summary>Answer</summary>
   
@@ -13,3 +15,6 @@ Flashcard like DS interview questions
   2. If you cannot drop outliers, you can try
   - a different model
 </details>
+
+
+
