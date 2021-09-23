@@ -26,14 +26,14 @@ Flashcard like DS interview questions
   <summary>Answer</summary>
   
   1. Supervised ML
-  -- Uses known and labeled data as input
-  -- Has a feedback mechanism
-  -- Most commonly used supervised ML algorithms are decision trees, logistic regression, and support vector machine
+  -- Uses known and labeled data as input  
+  -- Has a feedback mechanism  
+  -- Most commonly used supervised ML algorithms are decision trees, logistic regression, and support vector machine  
   
   2. Unsupervised ML
-  -- Uses unlabeled data as input
-  -- Doesn't have feedback mechanism
-  -- Most commonly used unsupervised ML algorithms are k-means clustering, hierarchical clustering, and apriori algorithm
+  -- Uses unlabeled data as input  
+  -- Doesn't have feedback mechanism  
+  -- Most commonly used unsupervised ML algorithms are k-means clustering, hierarchical clustering, and apriori algorithm  
 </details>
 
 
