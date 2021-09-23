@@ -3,7 +3,7 @@ Flashcard like DS interview questions
 
 ## Data Science related questions
 
-`How can outlier values be treated?`
+#### How can outlier values be treated?
 <details>
   <summary>Answer</summary>
   
