@@ -6,6 +6,7 @@ Flashcard like DS interview questions
 How can outlier values be treated?
 <details>
   <summary>Answer</summary>
+  
   1. Can be dropped if it's garbage value
   * e.g. height = abc ft, then it's string value instead of int or float, hence can be dropped
   * if it's extreme value, it can be removed
