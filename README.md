@@ -19,6 +19,32 @@ Flashcard like DS interview questions
   
 </details>
 
+<pre>Describe the steps of z-score scaling</pre>
+
+<details>
+  <summary>Answer</summary>
+  1. Calculate mean  
+  2. Subtract the mean from each value  
+  3. Calculate the standard deviation  
+  4. Divide by the standard deviation  
+  Mathematical formula : {(sample value) - (the mean)} / (standard deviation)  
+
+</details>
+
+<pre>Why is it important to scale the data in terms of making heatmaps</pre>
+
+<details>
+  <summary>Answer</summary>
+  Because otherwise the data are sparsely located, hence it wold make so many shades of heatmap. And we can only discern so many shades of colors.  
+  The wider the range, the more subtle the difference in the shades. By tightly grouping the data, we use fewer shades and it's easier to see.  
+</details>
+
+<pre>What happens if there's outlier when you're making heatmap</pre>
+
+<details>
+  <summary>Answer</summary>
+  This case, the standard deviation will be much bigger, the values near zero will get compressed a lot and it will be hard to separate them with only few shades.  
+</details>
 
 <pre>What are the difference between Supervised Machine Learning and Unsupervised Machine Learning? </pre>
 
