@@ -51,7 +51,13 @@ Flashcard like DS interview questions
   
 </details>
 
+<pre>Differnce between clustering and classification/regression models</pre>
 
+<details>
+  <summary>Answer</summary>
+  In classification and regression models, we are given a data set(D) which contains data points(Xi) and class labels(Yi). Where, Yi’s belong to {0,1} or {0,1,2,…,n) for Classification models and Yi’s belong to real values for regression models.
+  
+</details>
 
 ##### Template
 <pre>Your Question</pre>
